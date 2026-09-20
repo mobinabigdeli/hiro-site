@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{background-color: #fafae7;display: flex;justify-content: center;}
+
+nav{width: 90%;height: 50px;background-color: cadetblue;}
